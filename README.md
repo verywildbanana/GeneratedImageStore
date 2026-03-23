@@ -1,0 +1,3 @@
+# GeneratedImageStore
+
+Uploaded generated images.
